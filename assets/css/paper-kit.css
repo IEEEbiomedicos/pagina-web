@@ -88,7 +88,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on,
 .bootstrap-switch .bootstrap-switch-handle-off {
   text-align: center;
-  z-index: 2;
+  z-index: 200;
   float: left;
   width: 50% !important;
   background-color: #66615B;
